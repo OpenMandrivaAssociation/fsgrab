@@ -9,6 +9,7 @@ Release: %{release}
 License: GPL
 Group: File tools
 Source: %name-%version.tar.bz2
+Buildroot: %_tmppath/%{name}-buildroot
 
 %description
 This program allows you to seek to a given point in a file or a block device
