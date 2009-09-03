@@ -1,6 +1,6 @@
 %define name fsgrab
 %define version 1.1
-%define release %mkrel 12
+%define release %mkrel 13
 
 Summary: Get blocks from an (ext2) filesystem on Linux
 Name: %{name}
