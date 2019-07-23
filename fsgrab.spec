@@ -5,7 +5,7 @@
 Summary: Get blocks from an (ext2) filesystem on Linux
 Name: %{name}
 Version: %{version}
-Release: %{release}
+Release:	1
 License: GPL
 Group: File tools
 Source: %name-%version.tar.bz2
