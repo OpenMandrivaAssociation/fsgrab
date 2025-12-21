@@ -11,6 +11,7 @@ Group: File tools
 Source: %name-%version.tar.bz2
 Buildroot: %_tmppath/%{name}-buildroot
 
+BuildRequires:	make
 %description
 This program allows you to seek to a given point in a file or a block device
 and write a given number of blocks out from that point, without reading the
